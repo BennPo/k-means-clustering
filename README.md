@@ -1,7 +1,7 @@
 # K means clustering
 This is a project to help me understand the basics of unsupervised learning.
 
-It involves setting up random blobs of points using an sklearn dataset and groups them together into a pre specified number of clusters
+It involves setting up random clusters of points using an sklearn dataset and groups them together into a pre specified number of clusters
 
 
 ## Process
